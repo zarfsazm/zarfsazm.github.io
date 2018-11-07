@@ -1,0 +1,22 @@
+* { width: 900px;}
+.intro {font-family: arial;
+	color: red; }
+
+body {
+  background-image: url("images/building_ruin.jpg");}
+
+#extra {font-family: courier;
+	color: blue;
+	background-color:yellow;}
+#main  {
+	background-color: #e6cfa3;
+	width: 700px;
+	height: 400px;
+	margin: 20px;
+	padding: 30px;
+	border-style:solid;
+	border-width:15px 5px 7px 15px;	
+	border-color: yellow;}
+
+
+
